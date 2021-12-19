@@ -1,0 +1,27 @@
+.greyText {
+color: grey;
+text-transform :uppercase;
+position: relative;
+}
+
+.linkColor {
+    color: blue;
+    position: inherit;
+}
+
+.textFontSize {
+font-size: 16px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p.center {
+    font-size: 16px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(55, 0, 255);
+  }
+
+
+header p, footer p {
+    font-size: 2rem;
+}
